@@ -1,0 +1,250 @@
+{
+    "tables": {
+        "CICDDoSAttack": {
+            "columns": {
+                "Unnamed: 0": {
+                    "sdtype": "numerical"
+                },
+                "Protocol": {
+                    "sdtype": "categorical"
+                },
+                "Flow Duration": {
+                    "sdtype": "numerical"
+                },
+                "Total Fwd Packets": {
+                    "sdtype": "numerical"
+                },
+                "Total Backward Packets": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Packets Length Total": {
+                    "sdtype": "numerical"
+                },
+                "Bwd Packets Length Total": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Packet Length Max": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Packet Length Min": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Packet Length Mean": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Packet Length Std": {
+                    "sdtype": "numerical"
+                },
+                "Bwd Packet Length Max": {
+                    "sdtype": "numerical"
+                },
+                "Bwd Packet Length Min": {
+                    "sdtype": "numerical"
+                },
+                "Bwd Packet Length Mean": {
+                    "sdtype": "numerical"
+                },
+                "Bwd Packet Length Std": {
+                    "sdtype": "numerical"
+                },
+                "Flow Bytes/s": {
+                    "sdtype": "numerical"
+                },
+                "Flow Packets/s": {
+                    "sdtype": "numerical"
+                },
+                "Flow IAT Mean": {
+                    "sdtype": "numerical"
+                },
+                "Flow IAT Std": {
+                    "sdtype": "numerical"
+                },
+                "Flow IAT Max": {
+                    "sdtype": "numerical"
+                },
+                "Flow IAT Min": {
+                    "sdtype": "numerical"
+                },
+                "Fwd IAT Total": {
+                    "sdtype": "numerical"
+                },
+                "Fwd IAT Mean": {
+                    "sdtype": "numerical"
+                },
+                "Fwd IAT Std": {
+                    "sdtype": "numerical"
+                },
+                "Fwd IAT Max": {
+                    "sdtype": "numerical"
+                },
+                "Fwd IAT Min": {
+                    "sdtype": "numerical"
+                },
+                "Bwd IAT Total": {
+                    "sdtype": "numerical"
+                },
+                "Bwd IAT Mean": {
+                    "sdtype": "numerical"
+                },
+                "Bwd IAT Std": {
+                    "sdtype": "numerical"
+                },
+                "Bwd IAT Max": {
+                    "sdtype": "numerical"
+                },
+                "Bwd IAT Min": {
+                    "sdtype": "numerical"
+                },
+                "Fwd PSH Flags": {
+                    "sdtype": "categorical"
+                },
+                "Bwd PSH Flags": {
+                    "sdtype": "categorical"
+                },
+                "Fwd URG Flags": {
+                    "sdtype": "categorical"
+                },
+                "Bwd URG Flags": {
+                    "sdtype": "categorical"
+                },
+                "Fwd Header Length": {
+                    "sdtype": "numerical"
+                },
+                "Bwd Header Length": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Packets/s": {
+                    "sdtype": "numerical"
+                },
+                "Bwd Packets/s": {
+                    "sdtype": "numerical"
+                },
+                "Packet Length Min": {
+                    "sdtype": "numerical"
+                },
+                "Packet Length Max": {
+                    "sdtype": "numerical"
+                },
+                "Packet Length Mean": {
+                    "sdtype": "numerical"
+                },
+                "Packet Length Std": {
+                    "sdtype": "numerical"
+                },
+                "Packet Length Variance": {
+                    "sdtype": "numerical"
+                },
+                "FIN Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "SYN Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "RST Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "PSH Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "ACK Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "URG Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "CWE Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "ECE Flag Count": {
+                    "sdtype": "categorical"
+                },
+                "Down/Up Ratio": {
+                    "sdtype": "numerical"
+                },
+                "Avg Packet Size": {
+                    "sdtype": "numerical"
+                },
+                "Avg Fwd Segment Size": {
+                    "sdtype": "numerical"
+                },
+                "Avg Bwd Segment Size": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Avg Bytes/Bulk": {
+                    "sdtype": "categorical"
+                },
+                "Fwd Avg Packets/Bulk": {
+                    "sdtype": "categorical"
+                },
+                "Fwd Avg Bulk Rate": {
+                    "sdtype": "categorical"
+                },
+                "Bwd Avg Bytes/Bulk": {
+                    "sdtype": "categorical"
+                },
+                "Bwd Avg Packets/Bulk": {
+                    "sdtype": "categorical"
+                },
+                "Bwd Avg Bulk Rate": {
+                    "sdtype": "categorical"
+                },
+                "Subflow Fwd Packets": {
+                    "sdtype": "numerical"
+                },
+                "Subflow Fwd Bytes": {
+                    "sdtype": "numerical"
+                },
+                "Subflow Bwd Packets": {
+                    "sdtype": "numerical"
+                },
+                "Subflow Bwd Bytes": {
+                    "sdtype": "numerical"
+                },
+                "Init Fwd Win Bytes": {
+                    "sdtype": "numerical"
+                },
+                "Init Bwd Win Bytes": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Act Data Packets": {
+                    "sdtype": "numerical"
+                },
+                "Fwd Seg Size Min": {
+                    "sdtype": "numerical"
+                },
+                "Active Mean": {
+                    "sdtype": "numerical"
+                },
+                "Active Std": {
+                    "sdtype": "numerical"
+                },
+                "Active Max": {
+                    "sdtype": "numerical"
+                },
+                "Active Min": {
+                    "sdtype": "numerical"
+                },
+                "Idle Mean": {
+                    "sdtype": "numerical"
+                },
+                "Idle Std": {
+                    "sdtype": "numerical"
+                },
+                "Idle Max": {
+                    "sdtype": "numerical"
+                },
+                "Idle Min": {
+                    "sdtype": "numerical"
+                },
+                "Label": {
+                    "sdtype": "categorical"
+                },
+                "Class": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
