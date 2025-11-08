@@ -32,7 +32,7 @@
 - **Model Evaluation:** Achieved 96.4% accuracy with unbalanced dataset
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7cda107c-348a-446e-8d11-572dfca63870" alt="Scanner Image" width="500" height="500" />
+  <img src="https://github.com/user-attachments/assets/7cda107c-348a-446e-8d11-572dfca63870" alt="Scanner Image" width="250" height="250" />
 </p>
 
 
