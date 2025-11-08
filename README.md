@@ -31,7 +31,7 @@
 - Hyperparameter Optimization using Tree of Parzen Estimators (TPE)
 - **Model Evaluation:** Achieved 96.4% accuracy with unbalanced dataset
 
-### In detail Document scasn the following QR
+### In detail Document scan the following QR Code
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7cda107c-348a-446e-8d11-572dfca63870" alt="Scanner Image" width="250" height="250" />
 </p>
