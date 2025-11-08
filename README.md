@@ -31,3 +31,5 @@
 - Hyperparameter Optimization using Tree of Parzen Estimators (TPE)
 - **Model Evaluation:** Achieved 96.4% accuracy with unbalanced dataset
 
+![Scanner Image](images/Complete Reference.png)
+
